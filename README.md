@@ -1,4 +1,4 @@
-# Hyperparameter-Tuning-for-Deep-Q-Networks
+# Hyperparameter-Optimization-for-Deep-Q-Networks
 Final Project for COMS 6998 Deep Learning Systems Performance at Columbia University <br>
 Collaborator: **Ananth Ravi Kumar** <br>
 References: https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch (modified DQN files from this repo)
