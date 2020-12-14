@@ -1,6 +1,8 @@
 # Hyperparameter-Optimization-for-Deep-Q-Networks
 Final Project for COMS 6998 Deep Learning Systems Performance at Columbia University <br>
-Collaborator: **Ananth Ravi Kumar** <br>
+
+Collaborator: **Ananth Ravi Kumar** https://www.github.com/arkwave <br>
+
 References: https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch (modified DQN files from this repo)
 
 ## Projection Description
