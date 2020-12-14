@@ -1,6 +1,7 @@
 # Hyperparameter-Tuning-for-Deep-Q-Networks
 Final Project for COMS 6998 Deep Learning Systems Performance at Columbia University <br>
-Collaborator: **Ananth Ravi Kumar**
+Collaborator: **Ananth Ravi Kumar** <br>
+References: https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch (modified DQN files from this repo)
 
 ## Projection Description
 To measure the sensitivity of Deep Q-Networks on different tasks subject to learning rate, batch size, optimizer, target Q network update step size, discount factor, and other hyperparameters to identify the relationship between hyperparameters and efficient convergence to the optimal policy across different state/action regimes.
